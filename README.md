@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Himanshu Baliyan
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning node.js
+- 👋 Hi, I’m Himanshu Baliyan.
+- 👀 I’m interested in Web Devlopment.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me ... himanshubaliyan4000@gmail.com
 
 <!---
