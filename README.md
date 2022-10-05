@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Baliyan.
-- 👀 I’m interested in Web Devlopment.
+- 👀 I’m interested in Software Devlopment.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me ... himanshubaliyan4000@gmail.com
 
