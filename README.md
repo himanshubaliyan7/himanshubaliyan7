@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, my name is Himanshu Baliyan and I am a Final year MCA (Cloud Computing) student at Hindustan Institute of Technology and Science. I am passionate about technology and love solving problems using software. I am always eager to learn new technologies and take on new challenges. I am currently seeking a Software Developer internship or job opportunity to further my skills and gain practical experience. If you have a position that aligns with my skills and experience, I would love to connect and learn more about your company.<br><br>If you want to know more about me, reach out to me at :<br>himanshubaliyan4000@gmail.com
+Hi, my name is Himanshu Baliyan and I’m a full-stack web developer with a background in Computer Science. I recently completed my Master's degree at Hindustan Institute of Technology and Science, focusing on React, Next.js, Node.js, MongoDB, and cloud platforms like Azure and AWS.
+
+I have hands-on experience in developing web applications, optimizing cloud deployments, and working with machine learning models. Notable projects include building a phishing detection system using machine learning and designing modern UI/UX for SaaS platforms.
+
+Recently, I’ve been working with TypeScript, Docker, and Kubernetes, continuously expanding my technical skills. I’m currently looking for full-time opportunities as a software developer where I can apply my knowledge to real-world problems.
+
+In my free time, I keep up with new technologies, watch sci-fi movies, and play video games. I'm also learning to play the guitar.
 
 
 ## 🌐 Socials:
