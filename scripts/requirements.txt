@@ -1,0 +1,9 @@
+# needed by the daily workflow
+requests==2.32.3
+beautifulsoup4==4.12.3
+# portrait-only (run locally when you change your photo)
+pillow
+numpy
+opencv-python-headless
+# optional: background removal for prep_photo.py (pip install rembg onnxruntime)
+# rembg
